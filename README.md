@@ -1,1 +1,1 @@
-# printf project
+# printf duo project
