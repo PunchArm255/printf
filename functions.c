@@ -1,5 +1,5 @@
 #include "main.h"
-rhflufguifgrbfkhkjqhqhefjhqejlkhqejklfhiufhqikufihliuhewiufhiu3hfiuirhfwjkfhrwjkfhkjrwfhukwfhehol
+
 /************************* PRINT CHAR *************************/
 
 /**
@@ -186,4 +186,3 @@ int print_binary(va_list types, char buffer[],
 	}
 	return (count);
 }
-
