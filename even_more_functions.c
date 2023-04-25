@@ -186,4 +186,3 @@ int print_rot13string(va_list types, char buffer[],
 	}
 	return (count);
 }
-wf23ff24f24f2f24f24ff24
