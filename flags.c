@@ -30,6 +30,7 @@ int get_flags(const char *format, int *i)
 
 	*i = curr_i - 1;
 
-jejkeknjerfk	return (flags);
+	return (flags);
 }
+
 
